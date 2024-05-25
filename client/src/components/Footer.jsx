@@ -84,10 +84,10 @@ export default function FooterCom() {
             <Footer.Copyright href="#" by="Anuj's Blog" year={new Date().getFullYear()}/>
             <div className="flex gap-6 sm:mt-0 mt-4 sm:justify-center">
                 <Footer.Icon href="#" icon={BsFacebook}/>
-                <Footer.Icon href="#" icon={BsInstagram}/>
+                <Footer.Icon href="https://www.instagram.com/anuj_mulhar_?igsh=MXFkdzRwNXQ3NG9lMQ==" icon={BsInstagram}/>
                 <Footer.Icon href="#" icon={BsTwitterX}/>
-                <Footer.Icon href="#" icon={BsGithub}/>
-                <Footer.Icon href="#" icon={BsLinkedin}/>
+                <Footer.Icon href="https://github.com/anuj-mulhar" icon={BsGithub}/>
+                <Footer.Icon href="https://www.linkedin.com/in/anuj-mulhar-a294b5231?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" icon={BsLinkedin}/>
 
             </div>
         </div>
