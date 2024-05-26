@@ -51,7 +51,7 @@ export default function SignUp() {
         </span>
         Blog
       </Link>
-      <p className='text-sm mt-5'>Please use your valid credentials to access our blogs. You can sign up with your email or with Google
+      <p className='text-sm mt-5'>Please use your valid credentials to access our blogs. You can sign up with your email and password or with Google.
 
       </p>
         </div>
