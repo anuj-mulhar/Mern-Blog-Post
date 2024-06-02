@@ -18,7 +18,7 @@ export default function DashSidebar() {
     if (tabFromUrl) {
       setTab(tabFromUrl);
     }
-    console.log(tabFromUrl);
+    // console.log(tabFromUrl);
   }, [location.search]);
 
   const handleSignout = async () => {
